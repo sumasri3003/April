@@ -1,0 +1,7 @@
+#commands
+1 -> git clone link
+2 -> cd file ( not filename folder name)
+3 -> git add filename
+4 -> git -m "add file"
+5 -> git commit
+6 -> git push
